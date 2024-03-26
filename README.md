@@ -1,4 +1,4 @@
-# AIML_10
+# AIML_I .Ankitha
 1. [lab 1](https://github.com/AnkithaIrukulla/AIML_10/blob/main/Lab01_AIML.ipynb)
 2. [lab 2](https://github.com/AnkithaIrukulla/AIML_10/blob/main/LAB02_AIML.ipynb)
 3. [lab 3](https://github.com/AnkithaIrukulla/AIML_10/blob/main/LAB_3.ipynb)
