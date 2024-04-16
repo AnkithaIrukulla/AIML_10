@@ -7,3 +7,4 @@
 6. [lab 6](https://github.com/AnkithaIrukulla/AIML_10/blob/main/lab_06.ipynb)
 7. [lab 7](https://github.com/AnkithaIrukulla/AIML_10/blob/main/Lab_07.ipynb)
 8. [lab 8](https://github.com/AnkithaIrukulla/AIML_10/blob/main/Lab_08.ipynb)
+9. [lab 9](https://github.com/AnkithaIrukulla/AIML_10/blob/main/Lab_09.ipynb)
